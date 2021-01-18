@@ -1,0 +1,5 @@
+#js-main {
+    height: 200px;
+    background-color: red;
+    background-image:linear-gradient(to right, hsl(0, 81%, 49%), hsl(60, 100%, 82%)) ;
+}
